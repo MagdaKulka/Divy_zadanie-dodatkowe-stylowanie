@@ -1,0 +1,24 @@
+.box {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.box1 {
+  background-color: yellow;
+}
+
+.box2 {
+  background-color: blue;
+}
+
+.box3 {
+  background-color: green;
+}
+
+.box4 {
+  width: 600px;
+  height: 200px;
+  display: block;
+  background-color: rgb(36, 15, 29);
+}
